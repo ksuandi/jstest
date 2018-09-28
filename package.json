@@ -1,0 +1,26 @@
+{
+  "name": "jstest_iwuteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksuandi/jstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksuandi/jstest/issues"
+  },
+  "homepage": "https://github.com/ksuandi/jstest#readme"
+}
